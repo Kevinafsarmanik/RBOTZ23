@@ -651,6 +651,7 @@ const menu = `▬▭▬▭▬▭▬▭▬▭▬▭
 => [ *THX TO* ]
 ➵ *RIMURUBOTZ*
 ➵ *LORD RYNZ*
+➵ *KEVIN AFSAR*
 ➵ *ADIWAJSHING*
 ➵ *MEGAWATI*
 ▬▭▬▭▬▭▬▭▬▭▬▭`
@@ -1227,7 +1228,7 @@ nayla.sendMessage(from, {image:nyz126},{quoted:nay})
 } catch (e) {error("ERROR")}	
 break  
 case 'scbot':
-replyy("https://youtube.com/channel/UCeQaKIQQhDNHMOq_odQh5Sw")
+replyy("SC ??🏃💨")
 break
 default: 
 }
